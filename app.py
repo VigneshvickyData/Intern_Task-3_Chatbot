@@ -4,7 +4,7 @@ from PIL import Image
 import io
 
 # set ApI key directly
-GEMINI_API_KEY = "AIzaSyBlDYBWc8pnf0_eRbGRoXbV0iTKEXh2JQ8"   # Replace with your Gemini API key
+GEMINI_API_KEY = "GEMINI_API_KEY"   # Replace with your Gemini API key
 if not GEMINI_API_KEY:
     st.error("Please provide a valid GEMINI_API_KEY.")
     st.stop()
