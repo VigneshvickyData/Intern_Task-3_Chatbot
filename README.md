@@ -9,19 +9,18 @@ This project extends the functionality of a chatbot to handle both text and imag
 Traditional chatbots handle only text inputs, generating responses based on natural language understanding. With advancements in AI, it’s possible to extend these capabilities to multimodal models like Gemini AI, which can analyze both text and images. By integrating these features, the chatbot can provide more dynamic and versatile responses based on both visual and textual content.
 
 ### Learning Objectives
-Integrate Google Palm and Gemini AI for multimodal capabilities.
-Develop a system that can accept and analyze image inputs from users.
-Generate relevant and intelligent textual responses based on image content.
-Enhance the user experience by combining text and image-based interactions.
+* Integrate Google Palm and Gemini AI for multimodal capabilities.
+* Develop a system that can accept and analyze image inputs from users.
+* Generate relevant and intelligent textual responses based on image content.
+* Enhance the user experience by combining text and image-based interactions.
 
 ### Skills and Competencies
-Programming Languages: Python
-Libraries:
-Streamlit for web interface development
-Google Generative AI (Gemini API) for multimodal capabilities
-PIL (Pillow) for image handling
-AI and Machine Learning: Understanding of multimodal models and API integration
-API Integration: Working with the Gemini AI API for text and image analysis
+* Programming Languages: Python
+* Streamlit for web interface development
+* Google Generative AI (Gemini API) for multimodal capabilities
+* PIL (Pillow) for image handling
+* AI and Machine Learning: Understanding of multimodal models and API integration
+* API Integration: Working with the Gemini AI API for text and image analysis
 
 
 
