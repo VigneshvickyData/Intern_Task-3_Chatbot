@@ -16,13 +16,13 @@ Traditional chatbots primarily rely on natural language processing to handle tex
 
 ### Activities and Tasks
 
-* Activities Performed:
+Activities Performed:
 
 * Integrated Google Gemini AI to handle multimodal inputs (text and image).
 * Enabled the chatbot to analyze and respond to user-uploaded images via Streamlit’s file uploader.
 * Combined text and image-based interactions to provide more contextual and relevant responses.
 
-* Technologies Used:
+Technologies Used:
 
 * Programming Language: Python
 * Framework: Streamlit for the web-based interface
@@ -50,24 +50,24 @@ Traditional chatbots primarily rely on natural language processing to handle tex
 
 
 ### Challenges and Solutions
-* Challenges Faced:
+Challenges Faced:
 * Integrating Image Analysis:
 
 * Challenge: Implementing Gemini AI's image-processing capabilities effectively.
 * Solution: Leveraged Gemini AI’s multimodal API to enable robust image analysis.
 
-* Optimizing File Uploads:
+Optimizing File Uploads:
 
 * Challenge: Handling large image files while maintaining performance.
 * Solution: Restricted file size and format to ensure smooth and efficient uploads.
 
 ### Outcomes and Impact
-* Outcomes:
+Outcomes:
 
 * Successfully integrated multimodal capabilities to process both text and image inputs using Gemini AI.
 * Created a chatbot capable of analyzing visual data and providing intelligent responses based on user-uploaded images.
 
-* Impact:
+Impact:
 
 * Improved customer support in scenarios requiring image analysis, such as product-related queries, troubleshooting, and visual verification tasks.
 * Enhanced user satisfaction by enabling seamless text and image-based interactions.
